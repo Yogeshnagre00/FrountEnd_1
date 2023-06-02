@@ -195,7 +195,6 @@
     text-transform: uppercase;
     text-align: center;
     text-decoration: underline red;
-   
 }
 .map p{
 color:white;
@@ -205,7 +204,7 @@ text-align: justify;}
     display: grid;
     grid-template-columns: 1fr 1fr;
     column-gap: 5rem;
-    width: 100%;
+    width: 80%;
     margin: 0 auto;
     
 }
